@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Social-Icon/Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pricing" transform="translate(-561.000000, -2015.000000)">
+            <g id="Social-Icon/All" transform="translate(517.000000, 2015.000000)">
+                <g id="Social-Icon/Facebook" transform="translate(44.000000, 0.000000)">
+                    <circle id="Background" fill="#3B5998" cx="17" cy="17" r="17"></circle>
+                    <path d="M21.6785818,9.12053586 C21.4073761,9.08035724 20.4732232,9 19.3884005,9 C17.1183085,9 15.561387,10.3861624 15.561387,12.92746 L15.561387,15.1171948 L13,15.1171948 L13,18.0904126 L15.561387,18.0904126 L15.561387,25.7143056 L18.6350514,25.7143056 L18.6350514,18.0904126 L21.1863937,18.0904126 L21.5781352,15.1171948 L18.6350514,15.1171948 L18.6350514,13.218755 C18.6350514,12.3649594 18.8660784,11.7723247 20.101571,11.7723247 L21.6785818,11.7723247 L21.6785818,9.12053586 Z" id="Facebook" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
